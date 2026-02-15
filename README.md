@@ -51,7 +51,7 @@ and explore ideas, abstractions, and tooling projects by night.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikk1406&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratikk1406&show_icons=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikk1406" height="160"/>
 </p>
 
